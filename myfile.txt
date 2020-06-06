@@ -1,0 +1,1 @@
+welcome everyone today scores today I am going to cover the numpy library in the Python standard numerical ability which which can able to process some mathematical and logical operation on array object can see the definition of formal definition is given show multidimensional array can be process using mathematical operation we can do some logical operation to the
